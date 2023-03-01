@@ -57,6 +57,6 @@ feature가 너무 많아 각 feature간 연관성, 상관관계 파악이 어려
 - LSTM
 
 - AutoML
-  - "Y_Qality"를 제외하고 AutoML Classification 실행
+  - "Y_Quality"를 제외하고 AutoML Classification 실행
   - AutoML Regression으로 "Y_Quality"를 먼저 예측하고 이를 기반으로 "Y_Class" 예측
 
