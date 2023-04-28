@@ -1,5 +1,7 @@
 # LG-AImers-Hackaton
 2023년 2월동안 진행한 Dacon 대회 참여 기록
+![LG AI.pdf](https://github.com/uvictoli/LG-AImers-Hackaton/files/11350091/LG.AI.pdf)
+
 ***
 ## 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤  
 https://dacon.io/competitions/official/236055/overview/description
